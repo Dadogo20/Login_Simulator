@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Login Simulator</string>
+    <string name="logo">Logo</string>
+    <string name="email_hint">E-Mail</string>
+    <string name="password_hint">Password</string>
+    <string name="sign_in">Log In</string>
+    <string name="register">Register</string>
+    <string name="registration_label">REGISTRATION</string>
+    <string name="enter_first_name_hint">First Name</string>
+    <string name="enter_last_name_hint">Last Name</string>
+    <string name="enter_birthdate_hint">Birthdate</string>
+    <string name="enter_email_hint">E-Mail</string>
+    <string name="enter_password_hint">Password</string>
+    <string name="done">Done</string>
+</resources>
